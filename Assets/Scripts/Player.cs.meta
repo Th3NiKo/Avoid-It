@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 924272c65a8da3b4f941b4e73cfbf51a
+timeCreated: 1518730748
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redTrail: {fileID: 2100000, guid: 8a40a597ed570c94b83eb8b15b7a165a, type: 2}
+  - whiteTrail: {fileID: 2100000, guid: 67d864a5bc65ec84cb8beaddc5c2542b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
